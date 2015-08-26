@@ -21,6 +21,7 @@ Incomplete but functional for my needs.
 #### Container Build Health
 [![Docker Pulls](https://img.shields.io/docker/pulls/chamunks/docker-bungeecord.svg?style=flat-square)](https://registry.hub.docker.com/u/chamunks/docker-bungeecord/)
 [![Docker Stars](https://img.shields.io/docker/stars/chamunks/docker-bungeecord.svg?style=flat-square)](https://registry.hub.docker.com/u/chamunks/docker-bungeecord/)
+Status Badge Broken See docker repository page for status.
 [![Docker Build Status](http://hubstatus.container42.com/chamunks/docker-bungeecord)](https://registry.hub.docker.com/u/chamunks/docker-bungeecord)
 
 #### Repository Statistics/Info
