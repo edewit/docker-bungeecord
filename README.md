@@ -1,4 +1,4 @@
-# OpenSSH-Server Container
+# BungeeCord Container
 `Complexity is the enemy of security stability and completion.`
 This container is intended to just be a simple BungeeCord server running on the [Docker Java Container with JDK-8 tag](https://hub.docker.com/_/java/). For the sake of sticking to docker standards and application separation this BungeeCord will be the only binary executed in this container. Containers are not intended to have more than one process/service running at a time for security purposes.
 
