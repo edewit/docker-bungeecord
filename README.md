@@ -4,6 +4,10 @@ This container is intended to just be a simple BungeeCord server running on the 
 
 You will have to supply your own config.yml
 
+## Invocation
+
+    docker-compose up -d
+
 ## Current Status
 Incomplete but functional for my needs.
 
